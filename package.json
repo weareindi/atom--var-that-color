@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "var-that-color:convert"
   },
-  "repository": "https://github.com/atom/name-that-color",
+  "repository": "https://github.com/Ozpital/var-that-color",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
