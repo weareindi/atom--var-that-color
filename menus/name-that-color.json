@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Var That Color",
+        "command": "var-that-color:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Var That Color",
+          "submenu": [
+            {
+              "label": "Convert",
+              "command": "car-that-color:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

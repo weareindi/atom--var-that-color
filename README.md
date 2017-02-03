@@ -1,2 +1,3 @@
-# var-that-color
-An atom package to convert hex codes to named variables
+# Var That Color
+
+Replace #HEX values with variables for CSS pre-processors.

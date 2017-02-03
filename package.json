@@ -1,0 +1,23 @@
+{
+  "name": "var-that-color",
+  "main": "./lib/var-that-color",
+  "version": "0.0.0",
+  "description": "Replace #HEX values with variables for CSS pre-processors.",
+  "keywords": [
+    "less",
+    "sass",
+    "ntc",
+    "name that color"
+  ],
+  "activationCommands": {
+    "atom-workspace": "var-that-color:convert"
+  },
+  "repository": "https://github.com/atom/name-that-color",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "ntc": "0.0.1"
+  }
+}
