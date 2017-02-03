@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Convert",
-              "command": "car-that-color:convert"
+              "command": "var-that-color:convert"
             }
           ]
         }
