@@ -1,0 +1,10 @@
+{
+    "outputType": {
+        "type": "string",
+        "default": "rgb",
+        "enum": [
+            "rgb",
+            "hex"
+        ]
+    }
+}
