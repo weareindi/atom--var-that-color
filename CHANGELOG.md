@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.2.3]
+- Allow for closing semi-colon
+
 ## [0.2.2]
 - Update this changelog
 
