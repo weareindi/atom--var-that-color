@@ -1,9 +1,11 @@
 {
     "outputType": {
         "type": "string",
-        "default": "rgb",
+        "default": "preserve",
         "enum": [
+            "preserve",
             "rgb",
+            "rgba",
             "hex"
         ]
     }
