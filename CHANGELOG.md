@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.4.0]
+- Add support for custom css variables and stylus
+- Use cursor scope instead of file extension to determine variable output
+- Additional: Special thanks to GitHub user [mrleblanc101](https://github.com/mrleblanc101) for the feedback and requests (issues) to make this package better.
+
 ## [0.3.0]
 - Allow for preserving input values
 - Allow for rgba output
