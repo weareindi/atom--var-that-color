@@ -1,7 +1,7 @@
 {
   "name": "var-that-color",
   "main": "./lib/var-that-color",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Replace #HEX values with variables for CSS pre-processors.",
   "keywords": [
     "less",
